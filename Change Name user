@@ -1,0 +1,12 @@
+getgenv().Config = {
+    Headless = false,
+    FakeDisplayName = "elder ",
+    FakeName = "roblox1305074",
+    FakeId = 7475620668,
+}
+
+task.spawn(function()
+    loadstring(game:HttpGet(
+        "https://raw.githubusercontent.com/CF-Trail/NameHider/main/MainScript.lua"
+    ))()
+end)
