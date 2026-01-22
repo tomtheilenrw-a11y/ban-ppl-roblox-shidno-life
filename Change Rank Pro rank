@@ -1,0 +1,13 @@
+local player = game.Players.LocalPlayer
+
+-- Warten bis leaderstats geladen sind
+local leaderstats = player:WaitForChild("leaderstats")
+
+local pro = leaderstats:WaitForChild("Pro")
+local rank = leaderstats:WaitForChild("Rank")
+local rep = leaderstats:WaitForChild("Rep")
+
+-- Werte ändern
+pro.Value = "C3"        -- Pro Rank
+rank.Value = "MAX-44"  -- Rank
+rep.Value = 0          -- Rep
