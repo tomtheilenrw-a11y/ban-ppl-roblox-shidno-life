@@ -9,5 +9,5 @@ local rep = leaderstats:WaitForChild("Rep")
 
 -- Werte ändern
 pro.Value = "F3"        -- Pro Rank
-rank.Value = "MAX-14"  -- Rank
+rank.Value = "MAX-59"  -- Rank
 rep.Value = 0          -- Rep
