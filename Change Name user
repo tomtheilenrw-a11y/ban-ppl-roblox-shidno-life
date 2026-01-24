@@ -1,8 +1,8 @@
 getgenv().Config = {
     Headless = false,
-    FakeDisplayName = "Zetsu",
-    FakeName = "warzoneninja1248",
-    FakeId = 3105266019,
+    FakeDisplayName = "revortni",
+    FakeName = "mkHuWmt5",
+    FakeId = 4614249388,
 }
 
 task.spawn(function()
